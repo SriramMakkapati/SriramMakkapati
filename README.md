@@ -185,13 +185,8 @@ gantt
 
 <br/>
 
-| # | Project | What It Does | Stack |
-|---|---------|-------------|-------|
-| 🔮 | **[Project Orion](https://github.com/SriramMakkapati/Project-Orion)** | Multi-source AI Research Agent with RAG, MCP, vector search & real-time streaming — fully local, zero cost | `Next.js` `FastAPI` `LangChain` `ChromaDB` `Ollama` |
-| 📊 | **Data Explorer** | LLM-powered conversational system for natural language interaction with datasets & KPIs | `OpenAI API` `Python` `React` |
-| 🔍 | **Data Profiling Engine** | Agentic AI system for automated profiling, anomaly detection & intelligent monitoring | `LangGraph` `Agentic AI` `Python` |
-| 🔄 | **Tech Modernization Platform** | AI pipeline automating cross-language code conversion & documentation generation | `GenAI` `LangChain` `Automation` |
-| 📈 | **AI Data Visualization** | Interactive dashboards transforming raw data into AI-powered actionable insights | `React` `Next.js` `Python` |
+> 🔮 **Project Orion** — Multi-source AI Research Agent with RAG, MCP, vector search & real-time streaming. Fully local, zero cost.
+> <br/>`Next.js` `FastAPI` `LangChain` `ChromaDB` `Ollama` `MCP`
 
 ---
 
